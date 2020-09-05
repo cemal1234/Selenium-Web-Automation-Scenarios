@@ -1,2 +1,2 @@
-# Selenium-Web-Automation-Scenarios
+# Selenium Web Automation Scenarios
 Trendyol Test Cases
